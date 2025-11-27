@@ -1,5 +1,5 @@
 # Retail-Returns-Analysis-Case-Study
-##Overview
+Overview
 This case study explores a retail dataset containing sales, returns, revenue, and cost information across multiple brands, channels, and product groups. The goal was to analyze return behavior, identify patterns, and derive insights that could support business decisions around merchandising, customer behavior, and operational efficiency.
 The analysis was performed using SQL for data slicing and aggregation, with additional spreadsheet modeling for quick visual comparisons.
  1. Dataset Summary
